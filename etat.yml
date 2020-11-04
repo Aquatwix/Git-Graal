@@ -3,14 +3,15 @@ inventaire:
   - cheval
   - grimoire
   - épée longue
+  - lion
 personnages:
   - moi:
-    - santé: 1
+    - santé: 8
   - chevalier_noir:
     - santé: 0
   - lion:
-    - santé: 20
+    - santé: 12
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
     - santé: 25
